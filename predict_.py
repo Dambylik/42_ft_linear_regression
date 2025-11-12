@@ -1,4 +1,3 @@
-# predict.py
 # Load saved model and predict price for a mileage entered by the user.
 
 import json
